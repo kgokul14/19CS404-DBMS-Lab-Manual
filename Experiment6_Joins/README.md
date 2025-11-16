@@ -1,6 +1,4 @@
 # Experiment 6: Joins
-## Name:RAGUL K
-## Reg.No:212224040258
 
 ## AIM
 To study and implement different types of joins.
